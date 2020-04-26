@@ -4,8 +4,9 @@
 # England
 
 ## Tudor
->Henry VII
->Henry VIII
+Henry VII
+
+Henry VIII
    * _Act_: Act of Supremacy, which acknowledged the King of England as the Supreme Head of Anglican Church.
 >
 
@@ -14,5 +15,6 @@
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4MTM4NDk0MzUsLTE0NjcyMjU5MjUsNz
+MwOTk4MTE2XX0=
 -->
