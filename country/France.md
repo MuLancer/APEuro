@@ -35,8 +35,9 @@
         + Later stage: War of Spanish Succession
             + Result: Treaty of Utrencht, which left a Bourbon on the throne of Spain but not same monarh. 
            
-    *_Influen
+    * _General Influence_: Create the glory of France, though exhausted the peasants because of the war's costs.
                
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTEzMTQ0NywxNDQ2OTQ4NTkwXX0=
+eyJoaXN0b3J5IjpbLTEwNjIzNzIzMzAsLTUxNTEzMTQ0NywxND
+Q2OTQ4NTkwXX0=
 -->
