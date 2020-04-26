@@ -31,8 +31,8 @@
          + 200,000 Huguenots exiled to England and the Netherland
    * _Warfare_: 
         + Early stage: conquered territories in Germany and Flanders
-        + 1688: Britain Glorious Revolution
-        + >1688
+        + 1688: Britain Glorious Revolution caused William of Orange
+        + Later stage: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Njk0ODU5MF19
+eyJoaXN0b3J5IjpbLTMyMTgxMzkzMCwxNDQ2OTQ4NTkwXX0=
 -->
