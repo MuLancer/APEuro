@@ -33,8 +33,10 @@
         + Early stage: conquered territories in Germany and Flanders
         + 1688: Britain Glorious Revolution caused William of Orange to become the king of England. Netherlands waged total war against France
         + Later stage: War of Spanish Succession
-                 + Result: l 
+            + Result: Treaty of Utrencht, which left a Bourbon on the throne of Spain but not same monarh. 
+           
+    *_Influen
                
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5MDAwNjIxLDE0NDY5NDg1OTBdfQ==
+eyJoaXN0b3J5IjpbLTUxNTEzMTQ0NywxNDQ2OTQ4NTkwXX0=
 -->
