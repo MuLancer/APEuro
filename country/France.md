@@ -26,13 +26,15 @@
        + New France: Quebec
     * _Minister_: Jean-Baptiste Colbert
     * _Religion_: Revoked the Edict of Nantes
-        + demolished Huguenot churches and schools 
-        + take away their rights
-         + 200,000 Huguenots exiled to England and the Netherland
+        * demolished Huguenot churches and schools 
+        * take away their rights
+         * 200,000 Huguenots exiled to England and the Netherland
    * _Warfare_: 
         + Early stage: conquered territories in Germany and Flanders
         + 1688: Britain Glorious Revolution caused William of Orange to become the king of England. Netherlands waged total war against France
         + Later stage: War of Spanish Succession
+                 + Result: l 
+               
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg0Nzk1MTgsMTQ0Njk0ODU5MF19
+eyJoaXN0b3J5IjpbMzk5MDAwNjIxLDE0NDY5NDg1OTBdfQ==
 -->
