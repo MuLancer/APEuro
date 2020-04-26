@@ -31,8 +31,8 @@
          + 200,000 Huguenots exiled to England and the Netherland
    * _Warfare_: 
         + Early stage: conquered territories in Germany and Flanders
-        + 1688: Britain Glorious Revolution caused William of Orange
-        + Later stage: 
+        + 1688: Britain Glorious Revolution caused William of Orange to become the king of England. Netherlands waged total war against France
+        + Later stage: War of Spanish Succession
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTgxMzkzMCwxNDQ2OTQ4NTkwXX0=
+eyJoaXN0b3J5IjpbLTE3Nzg0Nzk1MTgsMTQ0Njk0ODU5MF19
 -->
