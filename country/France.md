@@ -4,7 +4,6 @@
 # France
 
 ## Royal Absolutism
-
  
 Henry IV(1572-1610)
    * _Class_: Limited the power of the French nobility by reining in its influence over regional parliaments
@@ -36,12 +35,17 @@ Louis XIII(1610-1643)
     * _General Influence_: Create the glory of France, though exhausted the peasants because of the war's costs.
 
 
+## Age of Englightenment
+
+## French Revolution
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzE3OTg4MiwxMzM5MDEzNjg5LDY1MT
+eyJoaXN0b3J5IjpbLTg5NDY5MDQ0MCwxMzM5MDEzNjg5LDY1MT
 YyMTY0MSwtMTU0ODQ1Nzk5LC0xNTQ4NDU3OTksLTUxNTEzMTQ0
 NywxNDQ2OTQ4NTkwXX0=
 -->
