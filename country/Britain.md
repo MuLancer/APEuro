@@ -39,6 +39,8 @@ Charles I
    >3. No Tonnage and Poundage
    >
   >The King then dissolved the Parliament and began his *Personal Rule as Charles* for eleven years
+   >
+   >However, because Charles I insisted that Calvinist Scotland to follow
 * **Religion**:  Support for Arminian Wing of the Anglican Church
      * oppose to predestination
      * refused to deny that Catholics were Christians
@@ -50,6 +52,6 @@ Charles I
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI5Nzg0OTAsNDkzMTcxNDgsLTE4MT
-M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg1NzcxMzM1MCw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
