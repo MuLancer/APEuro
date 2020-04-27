@@ -36,7 +36,9 @@ Charles I
    >The relationship between Charles and Parliament got off to bad start when Parliament granted him Tonnage and Poundage (custom duties) for only a one-year period. At the Parliament called in 1628 because of the war with Spain, the king unwillingly signed the "_Petition of Rights_". After Duke of Buckingham was murdered, the tension between them is stregthened, and Eliod proposed three resolutions: 
    >1. No Catholicism
    >2. No raising funds without church's approval
-   >3.
+   >3. No Tonnage and Poundage
+   >
+  >The King then dissolved the Parliament and began his *Personal Rule as Charles* for eleven years
 * **Religion**:  Support for Arminian Wing of the Anglican Church
      * oppose to predestination
      * refused to deny that Catholics were Christians
@@ -48,6 +50,6 @@ Charles I
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzODM1MzEsNDkzMTcxNDgsLTE4MTM4ND
-k0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwNTI5Nzg0OTAsNDkzMTcxNDgsLTE4MT
+M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
 -->
