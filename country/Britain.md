@@ -32,7 +32,7 @@ Charles I
 * **Act**: 
   - Petition of right
 * **Conflict**: Parliament & the King
- after Duke of Buckingham was murdered, the tension between them is stregthened. At the 
+ The relationship between Charles and Parliament got off to bad start when Parliament granted him Tonnage and Poundage (custom duties) for only a one-year period. At the Parliament called in 1628, the king unwillingly signed the "_Petition of Rights_". 
 * **Religion**:  Support for Arminian Wing of the Anglican Church
      * oppose to predestination
      * refused to deny that Catholics were Christians
@@ -44,6 +44,6 @@ Charles I
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDYzODk1Miw0OTMxNzE0OCwtMTgxMz
+eyJoaXN0b3J5IjpbMTEwNjAyNTI0NCw0OTMxNzE0OCwtMTgxMz
 g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
