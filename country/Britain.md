@@ -1,5 +1,5 @@
 
-> Written with [StackEdit](https://stackedit.io/).
+
 
 # England
 
@@ -78,16 +78,15 @@ Charles II
    - King & Parliament
     - Direction of Church of England 
    - General Influence: He maintained a relatively stable reign
-   
-
+ 
 James II
  - Act: 
    - repeal of Test Act
    - Declaration of Indulgence
+ - General Influence: led to the Glorious Revolution. The reigh of England was replaced by William
  - Political: He wanted to achieve royal absolutism
  - General Influence: 
  - Religion: Catholic England
- - General Influence: led to the Glorious Revolution. The reigh of England was replaced by William
 
 William and Mary
   - Acts:
@@ -101,6 +100,6 @@ William and Mary
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMzU4MjY0LDQ5MzE3MTQ4LC0xODEzOD
-Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTgzMjUxNDEwOCw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
