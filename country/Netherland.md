@@ -14,13 +14,13 @@
  - Econ
    - conmmerce center: from Spanish-controlled city of Antwerp to Amsterdam
    - Advantages on trade:
-   
-   - technology:
-   - central bank: Bank of Amsterdam
+      - inter-European: geographic position between Baltic region and the rest of Europe; large mercahnt marine fleet
+   - technology: development of less expensive but ocean-worthy cargo ships
+   - Financial: Bank of Amsterdam
  - Political
  - Religion
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMyNzgxOTQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTAzMDc0MDkzMyw3MzA5OTgxMTZdfQ==
 -->
