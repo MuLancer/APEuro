@@ -18,10 +18,11 @@ Elizabeth I
 
 ## The Stuarts
 James VI of Scotland
-   * _Econ_: The cost of government increased which led to needs to consult two parliaments. The Parliamentary control over finance played a crucial role in Parliament's eventual trumph over royal absolutism.
-   * _Political_: three-part program which didn't end up successufl without the support from Parliament
-                 *unite England with Scotland
-                 *create a continental style standing a          
+   - _Econ_: The cost of government increased which led to needs to consult two parliaments. The Parliamentary control over finance played a crucial role in Parliament's eventual trumph over royal absolutism.
+   - _Political_: three-part program which didn't end up successufl without the support from Parliament
+        * unite England with Scotland
+                 * create a continental style standing army
+                 * New  system of royal France        
    * 
    * _Religion_:  Political
 > "No Bishop, No King"
@@ -34,6 +35,6 @@ Charles I
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTU5NDI0NywtMTgxMzg0OTQzNSwtMT
-Q2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjEzMTk2NTQ5LC0xODEzODQ5NDM1LC0xND
+Y3MjI1OTI1LDczMDk5ODExNl19
 -->
