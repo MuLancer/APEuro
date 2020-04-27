@@ -36,11 +36,11 @@ Charles I
      * refused to deny that Catholics were Christians
      * anger the Puritans
  - **Warfare**: War with Spain
-   - result: Par
+   - result: Parliament was called in, and put forward a _"Petition of Rights"_
 
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NDE5NDQ3LDQ5MzE3MTQ4LC0xODEzOD
-Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIxMTk1NjI4MzgsNDkzMTcxNDgsLTE4MT
+M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
 -->
