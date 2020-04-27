@@ -73,19 +73,22 @@ Cromwell
 
 Charles II
 - Acts
-  - Test Act: barred Catholics from serving as royal officials or in
+  - _Test Act_: barred Catholics from serving as royal officials or in military
  - Conflicts
    - King & Parliament
     - Direction of Church of England 
-   - General Influence: 
+   - General Influence: He maintained a relatively stable reign
    
 
 James II
- - Political
-   He wanted to achieve royal absolutism
+ - Act: 
+   - repeal of Test Act
+   - Declaration of Indulgence
+ - Political: He wanted to achieve royal absolutism
+ - General Influence
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODExMDA3NTUsNDkzMTcxNDgsLTE4MT
+eyJoaXN0b3J5IjpbLTEzMDA1NTMzODMsNDkzMTcxNDgsLTE4MT
 M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
 -->
