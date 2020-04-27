@@ -57,18 +57,21 @@ Charles I
 Cromwell
  - Conflicts
    - Independents & Presbyterians
-     - conflicts among his own supporters
-   1. religious freedom
-   2. no  dissent
+     - conflicts among his own supporters ( one support religious freedom, one not)
+  
    - Levellers & Diggers
      -  universal suffrage
      -  rise of radical factions within his army
   - Political
      Republic: Commonwealth
-     e
+     essentially it's just a military dictatorship governed by Cromwell
+ - Warfare
+   - Leveller
+   - Ireland
+   - 
   -   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNTc0MzY2LDQ5MzE3MTQ4LC0xODEzOD
-Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3MjY2MjA1OTIsNDkzMTcxNDgsLTE4MT
+M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
 -->
