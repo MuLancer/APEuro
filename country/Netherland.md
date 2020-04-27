@@ -23,10 +23,10 @@
    - Change: at the beginning of 18th century, Dutch commercial power lose its preeminent place in Europe to English
     
  - Political: decentralized government with seven politically autonomous provinces.
-   - Executive power: House of Orange, whose  
- - Religion
+   - Executive power: House of Orange, whose family members had achieved prominence for leading a revolt against Spain
+ - Religion: t
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODE2MDE5MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMzE0MjU5NDIsNzMwOTk4MTE2XX0=
 -->
