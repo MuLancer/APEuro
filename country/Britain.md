@@ -40,7 +40,7 @@ Charles I
    >
   >The King then dissolved the Parliament and began his *Personal Rule as Charles* for eleven years
    >
-   >However, because Charles I insisted that Calvinist Scotland to follow
+   >However, because Charles I's failure of insisting Calvinist Scotland to follow _English Book of Common Prayer_, the Parliament was called again in order to raise funds
 * **Religion**:  Support for Arminian Wing of the Anglican Church
      * oppose to predestination
      * refused to deny that Catholics were Christians
@@ -52,6 +52,6 @@ Charles I
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzcxMzM1MCw0OTMxNzE0OCwtMTgxMz
+eyJoaXN0b3J5IjpbMTI2NjcxNDQ3Myw0OTMxNzE0OCwtMTgxMz
 g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
