@@ -8,7 +8,7 @@
 ## Royal Absolutism
 
  - Henry IV(1572-1610)
- !
+ ![avatar][base64henry]
     * _Class_: Limited the power of the French nobility by reining in its influence over regional parliaments
     * _Econ_: Financial minister the Duke of Sully, who established government monopolies over a number of key commodities(such as salt) with the king
     * _General Influence_: Revitalized France and strengthened monarchical power, but his assasination in 1610 resulted in the vulnerability of France... since his son is too young.
@@ -36,8 +36,14 @@
         + Later stage: War of Spanish Succession
             + Result: Treaty of Utrencht, which left a Bourbon on the throne of Spain but not same monarh.         
     * _General Influence_: Create the glory of France, though exhausted the peasants because of the war's costs.
+
+
+
+
+
+[ase
                
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNzkyNzQyLC0xNTQ4NDU3OTksLTE1ND
-g0NTc5OSwtNTE1MTMxNDQ3LDE0NDY5NDg1OTBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjUwOTY3NTIsLTE1NDg0NTc5OSwtMT
+U0ODQ1Nzk5LC01MTUxMzE0NDcsMTQ0Njk0ODU5MF19
 -->
