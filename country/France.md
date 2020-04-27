@@ -1,8 +1,6 @@
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
-
 # France
 
 ## Royal Absolutism
@@ -43,7 +41,7 @@ Louis XIII(1610-1643)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzM1OTk1NiwxMzM5MDEzNjg5LDY1MT
+eyJoaXN0b3J5IjpbLTIyNzE3OTg4MiwxMzM5MDEzNjg5LDY1MT
 YyMTY0MSwtMTU0ODQ1Nzk5LC0xNTQ4NDU3OTksLTUxNTEzMTQ0
 NywxNDQ2OTQ4NTkwXX0=
 -->
