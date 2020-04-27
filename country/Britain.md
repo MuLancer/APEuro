@@ -39,11 +39,11 @@ Charles I
    - result: Parliament was called in, and put forward a _"Petition of Rights"_
  - **Key people**
     - John Eliot
-    After Duke of Buckingham was murdered, the tension between two 
+    After Duke of Buckingham was murdered, the tension between
 
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjIxODkyNyw0OTMxNzE0OCwtMTgxMz
-g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzYxNDczMDcxLDQ5MzE3MTQ4LC0xODEzOD
+Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
 -->
