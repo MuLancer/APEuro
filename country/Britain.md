@@ -61,7 +61,6 @@ Cromwell
    - Levellers & Diggers
      -  universal suffrage
      -  rise of radical factions within his army
-    -  
   - Political
      Republic: Commonwealth
      called: Lord Protecter
@@ -70,8 +69,15 @@ Cromwell
    - Leveller
    - Ireland (put down with incredible brutality)
 
+## Glorious Revolution
+
+Charles II
+
+   - King & Parliament
+    - Direction of Church of England 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzcxODM2Niw0OTMxNzE0OCwtMTgxMz
-g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzUxOTU5Mzg1LDQ5MzE3MTQ4LC0xODEzOD
+Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
 -->
