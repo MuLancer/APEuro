@@ -85,10 +85,14 @@ James II
    - repeal of Test Act
    - Declaration of Indulgence
  - Political: He wanted to achieve royal absolutism
- - General Influence
+ - General Influence: 
+ - Religion: Catholic England
+ - General Influence: led to the Glorious Revolution. The reigh of England 
+
+William and mary
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA1NTMzODMsNDkzMTcxNDgsLTE4MT
-M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY2NjM1NjgzNCw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
