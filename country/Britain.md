@@ -8,7 +8,8 @@ Henry VII
 
 Henry VIII
    * _Act_: Act of Supremacy, which acknowledged the King of England as the Supreme Head of Anglican Church.
-   * _Religion_: 
+   * _Religion_: converted England to Anglican Church because he wanted to marry another wife in order to obtain a male heretige..
+   * 
 
 Edward
  
@@ -26,6 +27,6 @@ Charles I
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk1Njk4MTIsLTE4MTM4NDk0MzUsLT
-E0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE4MTQ0ODc1MiwtMTgxMzg0OTQzNSwtMT
+Q2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
