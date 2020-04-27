@@ -37,10 +37,13 @@ Charles I
      * anger the Puritans
  - **Warfare**: War with Spain
    - result: Parliament was called in, and put forward a _"Petition of Rights"_
+ - **Key people**
+    - John Eliot
+    - 
 
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk1NjI4MzgsNDkzMTcxNDgsLTE4MT
-M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODM5OTUzMDgzLDQ5MzE3MTQ4LC0xODEzOD
+Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
 -->
