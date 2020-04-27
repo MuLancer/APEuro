@@ -18,22 +18,26 @@ Elizabeth I
 
 ## The Stuarts
 James VI of Scotland
-   - _Econ_: The cost of government increased which led to needs to consult two parliaments. The Parliamentary control over finance played a crucial role in Parliament's eventual trumph over royal absolutism.
+   - _***Econ***_: The cost of government increased which led to needs to consult two parliaments. The Parliamentary control over finance played a crucial role in Parliament's eventual trumph over royal absolutism.
    - _Political_: three-part program which didn't end up successufl without the support from Parliament.
         - unite England with Scotland
         - create a continental style standing army
         - New  system of royal France       
-     -
-> "No Bishop, No King"
-   As a result, he failed to satisfied the radical Calvinist Portestants, known as Puritans during the Stuart period. Therefore, Puritans became more extreme and many Puritans fled to America.
+     - _Religion_:
+      > "No Bishop, No King"
+     >As a result, he failed to satisfied the radical Calvinist Portestants, known as Puritans during the Stuart period. Therefore, Puritans became more extreme and many Puritans fled to America.
 
 Charles I
-
-
+*
+* _Religion_:  Support for Arminian Wing of the Anglican Church
+     * oppose to predestination
+     * refused to deny that Catholics were Christians
+     * anger the Puritans
+ - Warfare
 
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkxMjM0MDcsNDkzMTcxNDgsLTE4MT
-M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg1NjY0ODAzNSw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
