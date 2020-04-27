@@ -18,13 +18,15 @@
    - Technology: development of less expensive but ocean-worthy cargo ships
    - Financial and commercial institutions: 
      - Bank of Amsterdam: banking center of the world
-     - Dutch East India Comany: The company was funded by both government and individuals. It brought large a
+     - Dutch East India Comany: The company was funded by both government and individuals. It brought large amount of capitalization to Netherland.
      - Joint-stock companies: allows risks and profits to be shared among many individuals
+   - Change: at the beginning of 18th century, Dutch commercial power lose its preeminent place in Europe to English
+   
      - 
  - Political
  - Religion
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MjE3MjYwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTQzMzU1MjkwLDczMDk5ODExNl19
 -->
