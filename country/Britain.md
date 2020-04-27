@@ -45,13 +45,14 @@ Charles I
      * oppose to predestination
      * refused to deny that Catholics were Christians
      * anger the Puritans
- - **Warfare**: War with Spain
-   - result: Parliament was called in, and put forward a _"Petition of Rights"_
+ - **Warfare**: 
+   - War with Spain
+    result: Parliament was called in, and put forward a _"Petition of Rights"_
  -
 
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjcxNDQ3Myw0OTMxNzE0OCwtMTgxMz
+eyJoaXN0b3J5IjpbLTUwNzA1NzgxNSw0OTMxNzE0OCwtMTgxMz
 g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
