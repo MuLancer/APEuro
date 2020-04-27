@@ -7,14 +7,15 @@
 
 ## Royal Absolutism
 
- - Henry IV(1572-1610)
- - 
+ 
+  Henry IV(1572-1610)
+
     * _Class_: Limited the power of the French nobility by reining in its influence over regional parliaments
     * _Econ_: Financial minister the Duke of Sully, who established government monopolies over a number of key commodities(such as salt) with the king
     * _General Influence_: Revitalized France and strengthened monarchical power, but his assasination in 1610 resulted in the vulnerability of France... since his son is too young.
 
- - Louis XIII(1610-1643)
-     * _Minister_: Minister Cardinal Richelieu 
+Louis XIII(1610-1643)
+   * _Minister_: Minister Cardinal Richelieu 
      * _Religion_: Defeated Huguenots and took away their previlege granted by the [Edict-of-Nantes](https://www.britannica.com/event/Edict-of-Nantes)
      * _Warfare_: Began the Thirty-Years War
        + purpose: His purpose is actually not religious but rather political since he wanted to counter the Spanish Habsburgs. It's important to note that France joined the Potestant side
@@ -43,7 +44,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NzUzODgsMTMzOTAxMzY4OSw2NTE2Mj
-E2NDEsLTE1NDg0NTc5OSwtMTU0ODQ1Nzk5LC01MTUxMzE0NDcs
-MTQ0Njk0ODU5MF19
+eyJoaXN0b3J5IjpbMTE0MDU3NzEwNywxMzM5MDEzNjg5LDY1MT
+YyMTY0MSwtMTU0ODQ1Nzk5LC0xNTQ4NDU3OTksLTUxNTEzMTQ0
+NywxNDQ2OTQ4NTkwXX0=
 -->
