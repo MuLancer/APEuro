@@ -58,20 +58,20 @@ Cromwell
  - Conflicts
    - Independents & Presbyterians
      - conflicts among his own supporters ( one support religious freedom, one not)
-  
    - Levellers & Diggers
      -  universal suffrage
      -  rise of radical factions within his army
+    -  
   - Political
      Republic: Commonwealth
+     called: Lord Protecter
      essentially it's just a military dictatorship governed by Cromwell
  - Warfare
    - Leveller
-   - Ireland
-   - 
-  -   
+   - Ireland (put down with incredible brutality)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY2MjA1OTIsNDkzMTcxNDgsLTE4MT
-M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTgyMzcxODM2Niw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
