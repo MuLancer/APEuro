@@ -20,15 +20,15 @@ Elizabeth I
 ## The Stuarts
 James VI of Scotland
    * _Econ_: cost of government increased ->need to consult wo pariaments
-   * _Religion_:  He had stated :
+   * _Religion_:  
 > "No Bishop, No King"
-   * failed to satisfied the radical Calvinist Portestants, known as Puritans. Therefore, Puritans became more extreme and many Puritans fled to America.
+   As a result, he failed to satisfied the radical Calvinist Portestants, known as Puritans during the . Therefore, Puritans became more extreme and many Puritans fled to America.
 Charles I
 
 
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkxNTA1OTMsLTE4MTM4NDk0MzUsLT
-E0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM5MTgxMDQ3LC0xODEzODQ5NDM1LC0xND
+Y3MjI1OTI1LDczMDk5ODExNl19
 -->
