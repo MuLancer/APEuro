@@ -87,12 +87,20 @@ James II
  - Political: He wanted to achieve royal absolutism
  - General Influence: 
  - Religion: Catholic England
- - General Influence: led to the Glorious Revolution. The reigh of England 
+ - General Influence: led to the Glorious Revolution. The reigh of England was replaced by William
 
-William and mary
+William and Mary
+  - Acts:
+    - The Bill of Rights (1689)
+    - The Act of Toleration (1689)
+    - The Mutiny Act (1689)
+    - The Act of Settlement (1701)
+    - The Act of Union (1707) 
+  - Political: Constitutional Monarchy
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjM1NjgzNCw0OTMxNzE0OCwtMTgxMz
-g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODAxMzU4MjY0LDQ5MzE3MTQ4LC0xODEzOD
+Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
 -->
