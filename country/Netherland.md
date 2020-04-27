@@ -21,12 +21,12 @@
      - Dutch East India Comany: The company was funded by both government and individuals. It brought large amount of capitalization to Netherland.
      - Joint-stock companies: allows risks and profits to be shared among many individuals
    - Change: at the beginning of 18th century, Dutch commercial power lose its preeminent place in Europe to English
-   
-     - 
- - Political
+    
+ - Political: decentralized government with seven politically autonomous provinces.
+   - Executive power: House of Orange, whose  
  - Religion
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMzU1MjkwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTQ4ODE2MDE5MSw3MzA5OTgxMTZdfQ==
 -->
