@@ -7,7 +7,7 @@
 Henry VII
 
 Henry VIII
-   * _Act_: Act of Supremacy, which acknowledged the King of England as the Supreme Head of Anglican Church.
+   * **Act**: Act of Supremacy, which acknowledged the King of England as the Supreme head of Anglican Church.
    * _Religion_: converted England to Anglican Church because he wanted to marry another wife in order to obtain a male offsping.
 
 Edward
@@ -18,7 +18,7 @@ Elizabeth I
 
 ## The Stuarts
 James VI of Scotland
-   - _***Econ***_: The cost of government increased which led to needs to consult two parliaments. The Parliamentary control over finance played a crucial role in Parliament's eventual trumph over royal absolutism.
+   - **Econ**: The cost of government increased which led to needs to consult two parliaments. The Parliamentary control over finance played a crucial role in Parliament's eventual trumph over royal absolutism.
    - _Political_: three-part program which didn't end up successufl without the support from Parliament.
         - unite England with Scotland
         - create a continental style standing army
@@ -38,6 +38,6 @@ Charles I
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjY0ODAzNSw0OTMxNzE0OCwtMTgxMz
+eyJoaXN0b3J5IjpbMTA0MjgxNDUzNyw0OTMxNzE0OCwtMTgxMz
 g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
