@@ -16,11 +16,14 @@
    - Advantages on trade:
       - inter-European: geographic position between Baltic region and the rest of Europe; large mercahnt marine fleet
    - technology: development of less expensive but ocean-worthy cargo ships
-   - Financial: Bank of Amsterdam
+   - Financial and commercial institutions: 
+     - Bank of Amsterdam
+     - Dutch East India Comany
+     - joint-stock companies: allow
  - Political
  - Religion
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDc0MDkzMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTkyNDA4NTYxMCw3MzA5OTgxMTZdfQ==
 -->
