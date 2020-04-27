@@ -40,7 +40,7 @@ Charles I
    >
   >The King then dissolved the Parliament and began his *Personal Rule as Charles* for eleven years
    >
-   >However, because Charles I's failure of insisting Calvinist Scotland to follow _English Book of Common Prayer_, the Parliament was called again in order to raise funds. The Parliament began to limit some of the king's prerogative rights and supported _Grand Remonstrace_. In response, Charles I tried to seize the leaders of the House of Commons
+   >However, because Charles I's failure of insisting Calvinist Scotland to follow _English Book of Common Prayer_, the Parliament was called again in order to raise funds. The Parliament began to limit some of the king's prerogative rights and supported _Grand Remonstrace_. In response, Charles I tried to seize the leaders of the House of Commons, an attempt that failed. As a result, he left London and marked the beginning of English Revolution
 * **Religion**:  Support for Arminian Wing of the Anglican Church
      * oppose to predestination
      * refused to deny that Catholics were Christians
@@ -50,11 +50,14 @@ Charles I
     result: Parliament was called in, and put forward a _"Petition of Rights"_
     - War with Scots
     result: forced to call Parliament again
- -
+
 
 ## English Civil War
 
+Cromwell
+ - Conflict
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODE4MDU0Myw0OTMxNzE0OCwtMTgxMz
+eyJoaXN0b3J5IjpbMTc0MjYwMjcxOSw0OTMxNzE0OCwtMTgxMz
 g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
