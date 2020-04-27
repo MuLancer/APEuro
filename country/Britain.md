@@ -73,11 +73,11 @@ Cromwell
 
 Charles II
 - Acts
-  - Test Act: barred Catholics from serving as
+  - Test Act: barred Catholics from serving as royal officials or in
  - Conflicts
    - King & Parliament
     - Direction of Church of England 
-   - Religion
+   - General Influence: 
    
 
 James II
@@ -86,6 +86,6 @@ James II
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjQ5MzAyMiw0OTMxNzE0OCwtMTgxMz
-g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0ODExMDA3NTUsNDkzMTcxNDgsLTE4MT
+M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
 -->
