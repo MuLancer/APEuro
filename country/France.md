@@ -8,6 +8,7 @@
 ## Royal Absolutism
 
  - Henry IV(1572-1610)
+ - ![Henry IV](https://en.wikipedia.org/wiki/Henry_IV_of_France#/media/File:Henri-Pourbus.jpg)
     * _Class_: Limited the power of the French nobility by reining in its influence over regional parliaments
     * _Econ_: Financial minister the Duke of Sully, who established government monopolies over a number of key commodities(such as salt) with the king
     * _General Influence_: Revitalized France and strengthened monarchical power, but his assasination in 1610 resulted in the vulnerability of France... since his son is too young.
@@ -37,6 +38,6 @@
     * _General Influence_: Create the glory of France, though exhausted the peasants because of the war's costs.
                
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg0NTc5OSwtNTE1MTMxNDQ3LDE0ND
-Y5NDg1OTBdfQ==
+eyJoaXN0b3J5IjpbMzg5Nzk2MDUzLC0xNTQ4NDU3OTksLTUxNT
+EzMTQ0NywxNDQ2OTQ4NTkwXX0=
 -->
