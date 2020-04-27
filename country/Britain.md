@@ -57,15 +57,18 @@ Charles I
 Cromwell
  - Conflicts
    - Independents & Presbyterians
-   conflicts among his own supporters
+     - conflicts among his own supporters
    1. religious freedom
    2. no  dissent
    - Levellers & Diggers
-   rise of radical factions within his army
+     -  universal suffrage
+     -  rise of radical factions within his army
   - Political
+     Republic: Commonwealth
+     e
   -   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNjMzNzc0LDQ5MzE3MTQ4LC0xODEzOD
+eyJoaXN0b3J5IjpbODUxNTc0MzY2LDQ5MzE3MTQ4LC0xODEzOD
 Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
 -->
