@@ -55,9 +55,13 @@ Charles I
 ## English Civil War
 
 Cromwell
- - Conflict
+ - Conflicts
+   - Independents & Presbyterians
+   - 
+  - Political
+  -   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjYwMjcxOSw0OTMxNzE0OCwtMTgxMz
-g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNDYxNjcyNjUsNDkzMTcxNDgsLTE4MT
+M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
 -->
