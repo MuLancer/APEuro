@@ -72,9 +72,13 @@ Cromwell
 ## Glorious Revolution
 
 Charles II
+- Acts
+  - Test Act: barred Catholics from serving as
  - Conflicts
    - King & Parliament
     - Direction of Church of England 
+   - Religion
+   
 
 James II
  - Political
@@ -82,6 +86,6 @@ James II
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxODYwNzQxLDQ5MzE3MTQ4LC0xODEzOD
-Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTUzNjQ5MzAyMiw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
