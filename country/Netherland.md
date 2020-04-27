@@ -18,12 +18,13 @@
    - Technology: development of less expensive but ocean-worthy cargo ships
    - Financial and commercial institutions: 
      - Bank of Amsterdam: banking center of the world
-     - Dutch East India Comany: 
-     - joint-stock companies: allows risks and profits to be shared among many individuals
+     - Dutch East India Comany: The company was funded by both government and individuals. It brought large a
+     - Joint-stock companies: allows risks and profits to be shared among many individuals
+     - 
  - Political
  - Religion
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjQ0ODk4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDA0MjE3MjYwLDczMDk5ODExNl19
 -->
