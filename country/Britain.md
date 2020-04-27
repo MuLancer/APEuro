@@ -72,12 +72,16 @@ Cromwell
 ## Glorious Revolution
 
 Charles II
-
+ - Conflicts
    - King & Parliament
     - Direction of Church of England 
 
+James II
+ - Political
+   He wanted to achieve royal absolutism
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxOTU5Mzg1LDQ5MzE3MTQ4LC0xODEzOD
+eyJoaXN0b3J5IjpbNDkxODYwNzQxLDQ5MzE3MTQ4LC0xODEzOD
 Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
 -->
