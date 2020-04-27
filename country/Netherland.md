@@ -1,9 +1,12 @@
 
 
 # The Netherlands
+## Golden Age (17th century)
 
-## A Center of Commerce and Trade (17
+ - EconReligion
+ - Religion
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDM3NTkzOSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTExNzY4MDM5NSw3MzA5OTgxMTZdfQ==
 -->
