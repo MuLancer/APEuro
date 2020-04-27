@@ -31,19 +31,19 @@ James VI of Scotland
 Charles I
 * **Act**: 
   - Petition of right
+* **Conflict**: Parliament & the King
+ after Duke of Buckingham was murdered, the tension between them is stregthened. At the 
 * **Religion**:  Support for Arminian Wing of the Anglican Church
      * oppose to predestination
      * refused to deny that Catholics were Christians
      * anger the Puritans
  - **Warfare**: War with Spain
    - result: Parliament was called in, and put forward a _"Petition of Rights"_
- - **Key people**
-    - John Eliot
-    After Duke of Buckingham was murdered, the tension between
+ -
 
 ## English Civil War
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNDczMDcxLDQ5MzE3MTQ4LC0xODEzOD
-Q5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTY3NDYzODk1Miw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
