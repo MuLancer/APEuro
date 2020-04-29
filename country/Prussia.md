@@ -21,13 +21,18 @@ Frederick the Great (r.1740-1786)
   - political: enlightened absolutist
   - social: 
     - enlightened 
-    - free the royal serfs
-    - end the capital punishement and limited the use of corporal punishment on
+      - intellectual center, where Voltaire would live for a time
+      - free the royal serfs
+      - end the capital punishement and limited the use of corporal punishment on serfs
+    - contradictory
+      - 
+  
+    
 
 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIzNzIwMTIsLTIwNTg3MzY1MjAsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTgyNjA0Njg5OSwtMjA1ODczNjUyMCw3Mz
+A5OTgxMTZdfQ==
 -->
