@@ -18,11 +18,11 @@ Frederick III (King Fredrick I)
 Frederick the Great (r.1740-1786)
   - political: enlightened absolutist
   - social: 
-  - 
+    - free the royal ser
 
 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDMwMTUzMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTg3MzY1MjAsNzMwOTk4MTE2XX0=
 -->
