@@ -11,8 +11,10 @@ Historica context:
    - 17th century: Prussia was a poor German state that was devastated by Thirty Years War
 
 Frederick Willian (r. 1640-1688)
-  build an army with the support of junkers
-  - class: The monarch has a long and
+  - The ruler of Brandenburg
+  build an army with the support of junkers wit
+  - class: The monarch has a long and mutually beneficial between the Prussian monarchy and the Junkers
+    - reason: the mo
 Frederick III 
 
 Frederick the Great (r.1740-1786)
@@ -21,5 +23,5 @@ Frederick the Great (r.1740-1786)
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTUwODE2NjEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk4NTI0MTEzNCw3MzA5OTgxMTZdfQ==
 -->
