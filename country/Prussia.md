@@ -12,16 +12,15 @@ Historica context:
 
 Frederick Willian (r. 1640-1688)
   - The ruler of Brandenburg
-  build an army with the support of junkers in exchange of the government permission for their control over serfs
   - class: The monarch has a long and mutually beneficial relationship between the Prussian monarchy and the Junkers
-  - 
-Frederick III 
-
+  - General Influence:  build a well-organized army with the support of junkers in exchange of the government permission for their control over serfs
+Frederick III (King Fredrick I)
 Frederick the Great (r.1740-1786)
+  - political: enlightened absolutist
 
 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mjg0MjU2OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzQwMTgzMSw3MzA5OTgxMTZdfQ==
 -->
