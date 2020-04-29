@@ -17,10 +17,12 @@ Frederick Willian (r. 1640-1688)
 Frederick III (King Fredrick I)
 Frederick the Great (r.1740-1786)
   - political: enlightened absolutist
+  - social: 
+  - 
 
 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQwMTgzMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTEyNDMwMTUzMiw3MzA5OTgxMTZdfQ==
 -->
