@@ -97,9 +97,43 @@ William and Mary
     - The Act of Union (1707) 
   - Political: Constitutional Monarchy
 
+## Age of Enlightenmen
+Queen Anne 
+
+George I (r. 1714-1721)
+  - question of the period( early 18th century)
+    > How that power was to be utilized in an efficient manner?
+  
+    Development: 
+    - Evolution of the office of Prime minister
+    - Torues abd Wgugs
+  
+  
+  - minister: Robert Walpore
+    - active and influential
+    - support in the lower class
+    - political patronage to ensure support from the house of Commons
+    - resigned his post over a conflict over the British foreign policy direction
+  - political:
+    -  less than attentive to British domestic politics
+   
+    - 
+- revolts: pro-Stuart revolts in 1715 and 1745
+
+George II (r.1727-1760)
+  - minister: still Robert Walporef
+  - political: similar
+
+George III (r.1760-1820)
+  - minister: Lord North. Earlier, the king's attempts to choose by his own proved to be problematic.
+  - diplomatic: American Revolution
+     After Seven years war, the French and Spain seeked payback.
+   Britain asserted its right to tax the colonists in Stamp Act in 1765 which angered the publishers and lawyers. America eventually win independence by 1783
+     - inspire reform within England. Paraders shouting "Wilkes and Liberty" on the streets, and hoped for a better political system including greater freedom of the press and an expansion of suffrage
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjUxNDEwOCw0OTMxNzE0OCwtMTgxMz
+eyJoaXN0b3J5IjpbMTQ5ODM4MDEzOSw0OTMxNzE0OCwtMTgxMz
 g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
