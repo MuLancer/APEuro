@@ -82,8 +82,12 @@ After Copernicus
  - Religion
 
 ## Implact of Scientific Revolution on Philosophes
+
+  Francis Bacon
+    - Inductive reasoning, or empiricism
+    - The Advancement of Learning,
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NDI2OTc3XX0=
+eyJoaXN0b3J5IjpbMTk4NjUyNDc3Niw2NTQ0MjY5NzddfQ==
 -->
