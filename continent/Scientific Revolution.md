@@ -102,7 +102,7 @@ Rene Descartes
 Blaise Pascal
   - _Pensees_
   - ideology: balance
-  - religion: Jansenist 
+  - religion: Jansenist which believes that religion has positive impact. total sinfulness of mankind, and the need for slvation to be achieved through faith because we are predestined
 
 Thomas Hobbes
   - _Liviathan_
@@ -115,5 +115,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg3ODY5NTIsNjU0NDI2OTc3XX0=
+eyJoaXN0b3J5IjpbMTIxMjg2NTYzMiw2NTQ0MjY5NzddfQ==
 -->
