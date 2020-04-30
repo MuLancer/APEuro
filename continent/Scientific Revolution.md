@@ -98,13 +98,14 @@ Blaise Pascal
 
 Thomas Hobbes
   - _Liviathan_
+  - Absolutism
+  - neccdepravity of human nature: life without government was "nasty, brutish, and short"
   - oppose divine rights of king
-  - depravity偶发胡曼nature
 
 
     
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0ODA0MzA5LDY1NDQyNjk3N119
+eyJoaXN0b3J5IjpbMTE1MDI1NTc1MSw2NTQ0MjY5NzddfQ==
 -->
