@@ -57,12 +57,10 @@
    - He waited many years before he finally decided to publish, and he claimed that the Heliocentric theory was just mere hypothesis.
 
 After Copernicus
-
-    - Tycho Brache
+  - Tycho Brache
     theory: moon and the sun revolved around the Earth, while the other planets revolved around the sun
-    - Johannes Kepler
+  - Johannes Kepler
      theory: orbits were elliptical
-
  - Galileo
    - _Dialogues on the Two Chief Systems of the World_ (1632)
    - **telescope**
@@ -75,13 +73,13 @@ After Copernicus
    A body in motion would tend to stay in motion under ideal conditions
 
  - **Sir Isaac Newton**
- - ==_**principia**_==
- - discovery
-   -  gravity
-   - experiment with optics
-   - differential calculus
- - status: head of the British Royal Society
- - Religion
+   - _**principia**_
+   - discovery
+       - gravity
+       - experiment with optics
+       - differential calculus
+   - status: head of the British Royal Society
+   - Religion: Catholic
 
 ## Medical
   - William Harvey: circulation of blood
@@ -114,5 +112,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ4MTM3MzIsNjU0NDI2OTc3XX0=
+eyJoaXN0b3J5IjpbLTEzNjI0NTk1ODcsNjU0NDI2OTc3XX0=
 -->
