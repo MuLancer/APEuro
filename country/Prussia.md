@@ -24,8 +24,11 @@ Frederick the Great (r.1740-1786)
       - intellectual center, where Voltaire would live for a time
       - free the royal serfs
       - end the capital punishement and limited the use of corporal punishment on serfs
-    - contradictory
-      - 
+    - contradictory ~~only limited~~ 
+      - refused to emancipate the serfs living on private estates because he needed the support from Junkers
+      - didn't emancipate the Jews
+
+
   
     
 
@@ -33,6 +36,6 @@ Frederick the Great (r.1740-1786)
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjA0Njg5OSwtMjA1ODczNjUyMCw3Mz
+eyJoaXN0b3J5IjpbLTU4NDM3OTM3NSwtMjA1ODczNjUyMCw3Mz
 A5OTgxMTZdfQ==
 -->
