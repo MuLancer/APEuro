@@ -93,9 +93,11 @@ After Copernicus
     Effect: attacked medieval scholasticism with its belief that the body of knowledge is already complete.
 
 Rene Descartes
+> "I think, therefore I am"
   - **Deductive reasoning (Rationalism)**: using reason to go from a general principle to the specific principle
-  -  
-  - writing in French 
+  -  _Discourse on Method_: 
+     reduced nature two two distinct elements: mind and matter
+  - writing in French rather than Latin
 
 Blaise Pascal
 
@@ -110,5 +112,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMxMjc5LDY1NDQyNjk3N119
+eyJoaXN0b3J5IjpbLTE2NjEwOTg2NTMsNjU0NDI2OTc3XX0=
 -->
