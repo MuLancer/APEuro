@@ -1,7 +1,8 @@
 
+
+
 # Enlightenment
-## Cause
-  - Discovery
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTQyMjIzOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTg1NzUyMjEzM119
 -->
