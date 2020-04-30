@@ -88,12 +88,14 @@ After Copernicus
 ## Implact of Scientific Revolution on Philosophes
 
   Francis Bacon
-    - Inductive reasoning, or empiricism: examine evidence from nature rather than rely on tradition.
+    - **Inductive reasoning (Empiricism)**: examine evidence from nature rather than rely on tradition.
     - _The Advancement of Learning_, _Novum Organum_
     Effect: attacked medieval scholasticism with its belief that the body of knowledge is already complete.
 
 Rene Descartes
-  - Deductive reasoning( Rationalism)
+  - **Deductive reasoning (Rationalism)**: using reason to go from a general principle to the specific principle
+  -  
+  - writing in French 
 
 Blaise Pascal
 
@@ -108,5 +110,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTQyMzMyMCw2NTQ0MjY5NzddfQ==
+eyJoaXN0b3J5IjpbLTE2OTMxMjc5LDY1NDQyNjk3N119
 -->
