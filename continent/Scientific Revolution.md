@@ -79,7 +79,7 @@ After Copernicus
        - experiment with optics
        - differential calculus
    - status: head of the British Royal Society
-   - Religion: Catholic
+   - Religion: devout 
 
 ## Medical
   - William Harvey: circulation of blood
@@ -112,5 +112,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI0NTk1ODcsNjU0NDI2OTc3XX0=
+eyJoaXN0b3J5IjpbLTU0ODcwMDgwOSw2NTQ0MjY5NzddfQ==
 -->
