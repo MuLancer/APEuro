@@ -79,7 +79,7 @@ After Copernicus
        - experiment with optics
        - differential calculus
    - status: head of the British Royal Society
-   - Religion: devout 
+   - Religion: devout Christian
 
 ## Medical
   - William Harvey: circulation of blood
@@ -100,6 +100,9 @@ Rene Descartes
   - writing in French rather than Latin
 
 Blaise Pascal
+  - _Pensees_
+  - ideology: balance
+  - religion: Jansenist 
 
 Thomas Hobbes
   - _Liviathan_
@@ -112,5 +115,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODcwMDgwOSw2NTQ0MjY5NzddfQ==
+eyJoaXN0b3J5IjpbLTE3MDg3ODY5NTIsNjU0NDI2OTc3XX0=
 -->
