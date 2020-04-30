@@ -83,7 +83,7 @@ After Copernicus
 
 ## Medical
   - William Harvey: circulation of blood
-  - Vesalius:
+  - Vesalius: anatomy 解剖学
 
 ## Implact of Scientific Revolution on Philosophes
 
@@ -99,12 +99,12 @@ Blaise Pascal
 Thomas Hobbes
   - _Liviathan_
   - oppose divine rights of king
-  - 
+  - depravity偶发胡曼nature
 
 
     
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU1NjU5NzgsNjU0NDI2OTc3XX0=
+eyJoaXN0b3J5IjpbOTQ0ODA0MzA5LDY1NDQyNjk3N119
 -->
