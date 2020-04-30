@@ -11,10 +11,11 @@ The individualism was born during the Reaissance as peope sought to receive pers
   - Historical Context:
     - black death -> requestioning of man's place in the universe
     - trade
-    - onbegan in Italy, because Italy see ruins of Rome 
+    - one reason that it began in Italy is because Italy see ruins of Rome 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNDQ2MTY5LC0xODc3MjgzMDc5LC00Nz
-Y3MjkyNDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzODQ3OTgwOTAsLTE4NzcyODMwNzksLT
+Q3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
 -->
