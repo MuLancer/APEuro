@@ -84,10 +84,13 @@ After Copernicus
 ## Implact of Scientific Revolution on Philosophes
 
   Francis Bacon
-    - Inductive reasoning, or empiricism
-    - The Advancement of Learning,
+    - Inductive reasoning, or empiricism: examine evidence from nature rather than rely on tradition.
+    - The Advancement of Learning, Novum Organum... attacked medieval scholasticism with its belief that the body of knowledge is already complete.
+
+
+    
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjUyNDc3Niw2NTQ0MjY5NzddfQ==
+eyJoaXN0b3J5IjpbMjEzNzI3NjE2OCw2NTQ0MjY5NzddfQ==
 -->
