@@ -81,6 +81,9 @@ After Copernicus
  - status: head of the British Royal Society
  - Religion
 
+## Medical
+  - William Harvey: circulation of blood
+
 ## Implact of Scientific Revolution on Philosophes
 
   Francis Bacon
@@ -93,7 +96,7 @@ Rene Descartes
 Blaise Pascal
 
 Thomas Hobbes
-  - _Liviathan
+  - _Liviathan_
   - oppose divine rights of king
   - 
 
@@ -102,5 +105,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNDg0ODE2LDY1NDQyNjk3N119
+eyJoaXN0b3J5IjpbLTE5NzU1NDYxNTksNjU0NDI2OTc3XX0=
 -->
