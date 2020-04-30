@@ -8,7 +8,9 @@ The individualism was born during the Reaissance as peope sought to receive pers
 >
 >While Italian Renaissance primarily had secular concerns, Northern Renaissance dealt with more religious concerns and ultimatey helped lay the foundation for the movement known as Protestant Reformation.
 
+  - Historical
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcyODMwNzksLTQ3NjcyOTI0Miw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTg5MjkzNTg4MCwtMTg3NzI4MzA3OSwtND
+c2NzI5MjQyLDczMDk5ODExNl19
 -->
