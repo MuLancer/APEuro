@@ -19,7 +19,7 @@
      - Discovery of new plant and animal life encouraged greater interest in the natural sciences
      - link between navigation and astronomy
 
-   - Invention of the Printing Press
+   - Invention of the **Printing Press**
      - Scientific knowledge spread much more rapidly. People are informed
   - Rivalry Among Nation-States
     - constant warfare increased the demand for advancement in technologies
@@ -50,12 +50,14 @@
 
 ## The Corpernican Revolution
 
- - Nicholas Copernicus (1473-1543)
+ - **Nicholas Copernicus** (1473-1543)
    - _Concerning the Revolutions of the Celestial Spheres_
+   **- Heliocentric Theory**
    - Polish
    - He waited many years before he finally decided to publish, and he claimed that the Heliocentric theory was just mere hypothesis.
 
 After Copernicus
+
     - Tycho Brache
     theory: moon and the sun revolved around the Earth, while the other planets revolved around the sun
     - Johannes Kepler
@@ -63,7 +65,7 @@ After Copernicus
 
  - Galileo
    - _Dialogues on the Two Chief Systems of the World_ (1632)
-   - telescope
+   - **telescope**
      - moon has mountainous similar surface with earth
      - stars are bigger than planets
      - sunspots and rings around Saturn
@@ -72,8 +74,8 @@ After Copernicus
    Heavier weights do not fall faster than lighter ones
    A body in motion would tend to stay in motion under ideal conditions
 
- - Sir Isaac Newton
- - ==_principia_==
+ - **Sir Isaac Newton**
+ - ==_**principia**_==
  - discovery
    -  gravity
    - experiment with optics
@@ -112,5 +114,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjEwOTg2NTMsNjU0NDI2OTc3XX0=
+eyJoaXN0b3J5IjpbLTE4ODQ4MTM3MzIsNjU0NDI2OTc3XX0=
 -->
