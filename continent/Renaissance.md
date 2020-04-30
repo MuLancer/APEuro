@@ -2,8 +2,8 @@
 
 ## Overview
   - name:  "rebirth"
-  - Artists believed that their achievem
+  - Artists believed that their achievements linked to the glories of the Greek and Roman world and owed nothing to the backwardness of the Middle Ages.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQwOTE5ODAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQ3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
 -->
