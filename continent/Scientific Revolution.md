@@ -83,6 +83,7 @@ After Copernicus
 
 ## Medical
   - William Harvey: circulation of blood
+  - Vesalius:
 
 ## Implact of Scientific Revolution on Philosophes
 
@@ -105,5 +106,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU1NDYxNTksNjU0NDI2OTc3XX0=
+eyJoaXN0b3J5IjpbLTE0NjU1NjU5NzgsNjU0NDI2OTc3XX0=
 -->
