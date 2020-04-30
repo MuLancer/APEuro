@@ -93,13 +93,14 @@ After Copernicus
     Effect: attacked medieval scholasticism with its belief that the body of knowledge is already complete.
 
 Rene Descartes
+  - Deductive reasoning( Rationalism)
 
 Blaise Pascal
 
 Thomas Hobbes
   - _Liviathan_
   - Absolutism
-  - neccdepravity of human nature: life without government was "nasty, brutish, and short"
+  - necessity: restrain the depravity of human nature: life without government was "nasty, brutish, and short"
   - oppose divine rights of king
 
 
@@ -107,5 +108,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDI1NTc1MSw2NTQ0MjY5NzddfQ==
+eyJoaXN0b3J5IjpbMjA1NTQyMzMyMCw2NTQ0MjY5NzddfQ==
 -->
