@@ -1,9 +1,9 @@
 # Renaissance
 
 ## Overview
-  - name:  "rebirth"
-  - Artists believed that their achievements linked to the glories of the Greek and Roman world and owed nothing to the backwardness of the Middle Ages.
+> Fifteenth- and sixteenth-century intellectuals and artists believed that they were part of a new golden age. Georgio Vasari, a sixteenth-century painter, architect, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI2MDk0MTU5NSwtNDc2NzI5MjQyLDczMD
+k5ODExNl19
 -->
