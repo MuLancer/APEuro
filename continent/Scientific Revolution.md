@@ -85,12 +85,22 @@ After Copernicus
 
   Francis Bacon
     - Inductive reasoning, or empiricism: examine evidence from nature rather than rely on tradition.
-    - The Advancement of Learning, Novum Organum... attacked medieval scholasticism with its belief that the body of knowledge is already complete.
+    - _The Advancement of Learning_, _Novum Organum_
+    Effect: attacked medieval scholasticism with its belief that the body of knowledge is already complete.
+
+Rene Descartes
+
+Blaise Pascal
+
+Thomas Hobbes
+  - _Liviathan
+  - oppose divine rights of king
+  - 
 
 
     
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzI3NjE2OCw2NTQ0MjY5NzddfQ==
+eyJoaXN0b3J5IjpbOTIxNDg0ODE2LDY1NDQyNjk3N119
 -->
