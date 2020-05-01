@@ -91,11 +91,16 @@ Francesco Petrarch (1304-1374)
   - Latin translation of the New Testment
   - disagreeement with Martin Luther: Erasmus wanted to reform the Church instead of abandoning it, and he believed that man have free will.
 
+## The Printing Press
 
+- historical background: more universities led to more literate people and more demand for books
+- Inventor: Johannes Gutenberg
+- Influence: spread the ideas more quickly
+  - E.g. In the reformation, people get a greater chan
   
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTYzMDA3MCw4MDMxNDgzNzMsLTE4Nz
-cyODMwNzksLTQ3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzOTU0ODM2NTQsODAzMTQ4MzczLC0xOD
+c3MjgzMDc5LC00NzY3MjkyNDIsNzMwOTk4MTE2XX0=
 -->
