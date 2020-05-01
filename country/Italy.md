@@ -45,7 +45,14 @@ Political Situation within Italy
   - Milan, Ludovico il Moro
     - despot in Milan + France Charles VIII **vs.** Naples
     - recognized his folly by 1498
-    - joined anti-French
+    - joined anti-French alliance, expelled the French and restored the Medici in Florence
+  - Florence, Savonarola
+    - expelled the Medici rulers and then established a puritanical state, which is a complete political and religious transformation that end the Florence's leading role in Renaissance
+    - Ludovico il Moro restored Medici and Savonarola was burnt at the stake
+- General Influence: 
+  - collapse of Italian independence
+  - Machiavelli wrote _The Price_ which is seen as the first work of odern political thought
+
   
 
 
@@ -53,5 +60,6 @@ Political Situation within Italy
 ## Italy Unification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUyMDA0NzAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MjI2Njg2MzMsLTExNDUyMDA0NzAsNz
+MwOTk4MTE2XX0=
 -->
