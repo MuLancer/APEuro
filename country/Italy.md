@@ -32,12 +32,6 @@ Warfare:
 ## In the Renaissance
 >High Renaissance
 
-Philosophers:
-  - Petrarch
-
-Arts:
-Leonardo Da Vinci
-
 
 
 
@@ -45,5 +39,5 @@ Leonardo Da Vinci
 ## Italy Unification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDA2ODg3OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzgxMTc5NzEzLDczMDk5ODExNl19
 -->
