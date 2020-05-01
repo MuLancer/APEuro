@@ -67,12 +67,15 @@ Francesco Petrarch (1304-1374)
       - _Mona Lisa_
       - Renaissance Man, who are advanced in different fields including military engineer, architecture, sculpture, science and so on
     - Raphael
+      - _The School of Athens
+      - kindly individua
     - Michelangelo
-      - _David_
+      - _David_, Sistine Chapel
+      - patron: pope
       - 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTA2MzI2NiwtMTg3NzI4MzA3OSwtND
+eyJoaXN0b3J5IjpbLTQ2MzM3MTQxMSwtMTg3NzI4MzA3OSwtND
 c2NzI5MjQyLDczMDk5ODExNl19
 -->
