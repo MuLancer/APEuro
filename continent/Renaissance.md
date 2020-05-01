@@ -86,9 +86,12 @@ Francesco Petrarch (1304-1374)
   - _Adages_: collect many other ancient and contemporary proverbs
     > "when there's smoke, there's fire"
     
+  - _Hangdbook of the Christian Knight_: innerfaith as opposed to the outer forms of worship
+  - Latin translation of the New Testment
+  - _Acts of the Apostles_: life of early Christians
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDA4MjIwNiw4MDMxNDgzNzMsLTE4Nz
-cyODMwNzksLTQ3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTE0NjA0ODgsODAzMTQ4MzczLC0xOD
+c3MjgzMDc5LC00NzY3MjkyNDIsNzMwOTk4MTE2XX0=
 -->
