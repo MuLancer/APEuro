@@ -36,11 +36,17 @@ Francesco Petrarch (1304-1374)
   - Christine de Pisan: a woman who was well educated with the support of people around her. She wrote "_The city of Ladies_" to emphsize the importance of women's private space.
 
 ## Center of Renaissance
-- place
+- Country: Italy
+  - Florence -> Rome 
+  
+|Florence| Rome |
+|--|--|
+|  |  |
+
   - 
    
 
-## Renaissance Art Transformation Overview
+## Renaissance Transformation in Art Overview
 
 - Historical Context
   - individualism inspired Renaissance artists to be important individuals in their own right instead of anonymous craftsman.
@@ -60,6 +66,6 @@ Francesco Petrarch (1304-1374)
   - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjk2OTYzLC0xODc3MjgzMDc5LC00Nz
+eyJoaXN0b3J5IjpbNjQwMzIzMzMyLC0xODc3MjgzMDc5LC00Nz
 Y3MjkyNDIsNzMwOTk4MTE2XX0=
 -->
