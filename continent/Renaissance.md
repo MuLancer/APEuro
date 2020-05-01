@@ -75,15 +75,18 @@ Francesco Petrarch (1304-1374)
      
 ## The Northern Renaissance
 
-  - contrast with Italian Renaissance
-    - more emphasize on Religion
+- contrast with Italian Renaissance
+  - more emphasize on Religion
 
-  - Thomas More
-
-  - Erasmus
+- Thomas More
+  - _Utopia_
+  -  criticize church
+- Erasmus
+  - _In 
+    - 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzMTQ4MzczLC0xODc3MjgzMDc5LC00Nz
-Y3MjkyNDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1ODY4MTc5NzQsODAzMTQ4MzczLC0xOD
+c3MjgzMDc5LC00NzY3MjkyNDIsNzMwOTk4MTE2XX0=
 -->
