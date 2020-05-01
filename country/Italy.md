@@ -33,11 +33,19 @@ Warfare:
 >High Renaissance
 
 
+  - Center: Florence -> Rome 
+  
+|Florence| Rome |
+|--|--|
+| Religious backlash| Support of popes especially Julius II |
+
+Political Situation within Italy
+  - Act: Treaty of Lodi
 
 
 
 ## Italy Unification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMTc5NzEzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg4NTU2MzEyMiw3MzA5OTgxMTZdfQ==
 -->
