@@ -96,11 +96,13 @@ Francesco Petrarch (1304-1374)
 - historical background: more universities led to more literate people and more demand for books
 - Inventor: Johannes Gutenberg
 - Influence: spread the ideas more quickly
-  - E.g. In the reformation, people get a greater chan
+  - E.g. In the reformation, people get a greater chance to be informed about the nature of the religious debate
+
+
   
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU0ODM2NTQsODAzMTQ4MzczLC0xOD
-c3MjgzMDc5LC00NzY3MjkyNDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTcxNjc0Mjk3OSw4MDMxNDgzNzMsLTE4Nz
+cyODMwNzksLTQ3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
 -->
