@@ -41,9 +41,10 @@ Francesco Petrarch (1304-1374)
   
 |Florence| Rome |
 |--|--|
-|  |  |
+| Religious backlash | Support of popes especially Julius II |
 
-  - 
+  - Art
+    - High renaissance->mannerism
    
 
 ## Renaissance Transformation in Art Overview
@@ -58,14 +59,11 @@ Francesco Petrarch (1304-1374)
   - +chiaroscuro: contrasts between light and dark
   - +single point perspective: converge at a single point in the distance to create more realistic settung
 
-- transformation 
-  - center: Florence (religious backlash) -> Rome (support of popes)
-  - High Renaissance -> Mannerism
 
+## Artists
 
   - 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMzIzMzMyLC0xODc3MjgzMDc5LC00Nz
-Y3MjkyNDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3ODUxNDA1OCwtMTg3NzI4MzA3OSwtND
+c2NzI5MjQyLDczMDk5ODExNl19
 -->
