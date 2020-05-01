@@ -50,14 +50,14 @@ Francesco Petrarch (1304-1374)
 ## Renaissance Transformation in Art Overview
 
 - Historical Context
-  - individualism inspired Renaissance artists to be important individuals in their own right instead of anonymous craftsman.
-  - secular individual patrons demanded a more naturalistic style
+  - **individualism** inspired Renaissance artists to be important individuals in their own right instead of anonymous craftsman.
+  - secular individual **patron**s demanded a more naturalistic style
 
 - Changes in Style of Art
-  - method: fresco on wet plaster or tempera on wood vs. oil painting
+  - method: fresco on wet plaster or tempera on wood vs. **oil painting**
   - -hierarchical sealing (distorted size proportional to significance)
   - +chiaroscuro: contrasts between light and dark
-  - +single point perspective: converge at a single point in the distance to create more realistic settung
+  - +single point perspective: converge at a single point in the distance to create more realistic settnig
 
 
 ## Artists
@@ -66,7 +66,13 @@ Francesco Petrarch (1304-1374)
     - Leonardo da Vinci
       - _Mona Lisa_
       - Renaissance Man, who are advanced in different fields including military engineer, architecture, sculpture, science and so on
+    - Raphael
+    - Michelangelo
+      - _David_
+      - 
+
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNTMyMzE1LC0xODc3MjgzMDc5LC00Nz
-Y3MjkyNDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTgyMTA2MzI2NiwtMTg3NzI4MzA3OSwtND
+c2NzI5MjQyLDczMDk5ODExNl19
 -->
