@@ -41,7 +41,9 @@ Francesco Petrarch (1304-1374)
   
 |Florence| Rome |
 |--|--|
-| Religious backlash (Sav| Support of popes especially Julius II |
+| Religious backlash| Support of popes especially Julius II |
+
+ (Savonarola expelled the Medici rulers and then established a puritan state)|
 
   - Art
     - High renaissance->mannerism
@@ -103,7 +105,7 @@ Francesco Petrarch (1304-1374)
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg0NjU2MywtNzE2NzQyOTc5LDgwMz
-E0ODM3MywtMTg3NzI4MzA3OSwtNDc2NzI5MjQyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTE3MjE5OTAzOTksLTcxNjc0Mjk3OSw4MD
+MxNDgzNzMsLTE4NzcyODMwNzksLTQ3NjcyOTI0Miw3MzA5OTgx
+MTZdfQ==
 -->
