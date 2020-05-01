@@ -78,10 +78,12 @@ Francesco Petrarch (1304-1374)
   - contrast with Italian Renaissance
     - more emphasize on Religion
 
+  - Thomas More
 
+  - Erasmus
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNDg1NTE2LC0xODc3MjgzMDc5LC00Nz
+eyJoaXN0b3J5IjpbODAzMTQ4MzczLC0xODc3MjgzMDc5LC00Nz
 Y3MjkyNDIsNzMwOTk4MTE2XX0=
 -->
