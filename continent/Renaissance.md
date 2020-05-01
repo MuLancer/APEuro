@@ -79,7 +79,7 @@ Francesco Petrarch (1304-1374)
   - more emphasize on Religion
 
 - Thomas More
-  - _Utopia_
+  - _Utopia_: all property hel
   -  criticize church
 - Erasmus
   - _In 
@@ -87,6 +87,6 @@ Francesco Petrarch (1304-1374)
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY4MTc5NzQsODAzMTQ4MzczLC0xOD
-c3MjgzMDc5LC00NzY3MjkyNDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjg2MTk5MjY1LDgwMzE0ODM3MywtMTg3Nz
+I4MzA3OSwtNDc2NzI5MjQyLDczMDk5ODExNl19
 -->
