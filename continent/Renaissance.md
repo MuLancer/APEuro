@@ -89,11 +89,13 @@ Francesco Petrarch (1304-1374)
   - _Hangdbook of the Christian Knight_: innerfaith as opposed to the outer forms of worship
   - _Acts of the Apostles_: life of early Christians
   - Latin translation of the New Testment
-  - disagreeement with Martin Luther: Erasmus wanted to reform the Church instead of abandoning it,
+  - disagreeement with Martin Luther: Erasmus wanted to reform the Church instead of abandoning it, and he believed that man have free will.
+
+
   
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MTY5Njk5LDgwMzE0ODM3MywtMTg3Nz
-I4MzA3OSwtNDc2NzI5MjQyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTc3OTYzMDA3MCw4MDMxNDgzNzMsLTE4Nz
+cyODMwNzksLTQ3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
 -->
