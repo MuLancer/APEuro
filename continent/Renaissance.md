@@ -68,14 +68,15 @@ Francesco Petrarch (1304-1374)
       - Renaissance Man, who are advanced in different fields including military engineer, architecture, sculpture, science and so on
     - Raphael
       - _The School of Athens
-      - kindly individua
+      - kindly individual
     - Michelangelo
       - _David_, Sistine Chapel
       - patron: pope
-      - 
+     
+## The Northern Renaissance
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzM3MTQxMSwtMTg3NzI4MzA3OSwtND
+eyJoaXN0b3J5IjpbMTYzMzYxNDcwMywtMTg3NzI4MzA3OSwtND
 c2NzI5MjQyLDczMDk5ODExNl19
 -->
