@@ -34,9 +34,13 @@ Francesco Petrarch (1304-1374)
 **Gender Issues:**
   - Leonardo Bruni: educational program for women, but exclude the study of rhetoric or public speech, since women stay at home.
   - Christine de Pisan: a woman who was well educated with the support of people around her. She wrote "_The city of Ladies_" to emphsize the importance of women's private space.
+
+## Center of Renaissance
+- place
+  - 
    
 
-## Renaissance Art
+## Renaissance Art Transformation Overview
 
 - Historical Context
   - individualism inspired Renaissance artists to be important individuals in their own right instead of anonymous craftsman.
@@ -56,6 +60,6 @@ Francesco Petrarch (1304-1374)
   - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYzODE0NiwtMTg3NzI4MzA3OSwtND
-c2NzI5MjQyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTgwNjk2OTYzLC0xODc3MjgzMDc5LC00Nz
+Y3MjkyNDIsNzMwOTk4MTE2XX0=
 -->
