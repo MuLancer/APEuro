@@ -41,7 +41,7 @@ Francesco Petrarch (1304-1374)
   
 |Florence| Rome |
 |--|--|
-| Religious backlash | Support of popes especially Julius II |
+| Religious backlash (Sav| Support of popes especially Julius II |
 
   - Art
     - High renaissance->mannerism
@@ -103,6 +103,7 @@ Francesco Petrarch (1304-1374)
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjc0Mjk3OSw4MDMxNDgzNzMsLTE4Nz
-cyODMwNzksLTQ3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDg0NjU2MywtNzE2NzQyOTc5LDgwMz
+E0ODM3MywtMTg3NzI4MzA3OSwtNDc2NzI5MjQyLDczMDk5ODEx
+Nl19
 -->
