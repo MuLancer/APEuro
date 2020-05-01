@@ -42,7 +42,7 @@ Warfare:
 Political Situation within Italy
   - Act: Treaty of Lodi (1454): balance of power among the major Italian city-states
     - End: 1490
-  - Ludovico il Moro
+  - Milan, Ludovico il Moro
     - despot in Milan + France Charles VIII **vs.** Naples
     - recognized his folly by 1498
     - joined anti-French
@@ -53,5 +53,5 @@ Political Situation within Italy
 ## Italy Unification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk1MzM5MjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNDUyMDA0NzAsNzMwOTk4MTE2XX0=
 -->
