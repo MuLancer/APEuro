@@ -42,12 +42,14 @@ Francesco Petrarch (1304-1374)
   - individualism inspired Renaissance artists to be important individuals in their own right instead of anonymous craftsman.
   - secular individual patrons demanded a more naturalistic style
 
-- Changes
+- Changes in 
   - method: fresco on wet plaster or tempera on wood vs. oil painting
   - -hierarchical sealing (distorted size proportional to significance)
-  - +
+  - +chiaroscuro: contrasts between light and dark
+  - +single point perspective: converge at a single point in the distance to create more realistic settung
+  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2Mzg2NTIwLC0xODc3MjgzMDc5LC00Nz
-Y3MjkyNDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwMTEyNDA2MDIsLTE4NzcyODMwNzksLT
+Q3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
 -->
