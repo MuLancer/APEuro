@@ -40,12 +40,16 @@ Warfare:
 | Religious backlash| Support of popes especially Julius II |
 
 Political Situation within Italy
-  - Act: Treaty of Lodi
+  - Act: Treaty of Lodi (1454): balance of power among the major Italian city-states
+    - End: 1490
+  - Ludovico il Moro
+    - despot in Milan + France Charles VIII vs. c
+  
 
 
 
 ## Italy Unification
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTU2MzEyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTM2MTA2Mzk0Miw3MzA5OTgxMTZdfQ==
 -->
