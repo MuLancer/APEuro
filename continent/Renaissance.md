@@ -79,14 +79,16 @@ Francesco Petrarch (1304-1374)
   - more emphasize on Religion
 
 - Thomas More
-  - _Utopia_: all property hel
+  - _Utopia_: all property held in common
   -  criticize church
 - Erasmus
-  - _In 
-    - 
+  - _In Praise of Folly_: criticize the problems of church
+  - _Adages_: collect many other ancient and contemporary proverbs
+    > "when there's smoke, there's fire"
+    
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MTk5MjY1LDgwMzE0ODM3MywtMTg3Nz
-I4MzA3OSwtNDc2NzI5MjQyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTgwNDA4MjIwNiw4MDMxNDgzNzMsLTE4Nz
+cyODMwNzksLTQ3NjcyOTI0Miw3MzA5OTgxMTZdfQ==
 -->
