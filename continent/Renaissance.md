@@ -87,11 +87,13 @@ Francesco Petrarch (1304-1374)
     > "when there's smoke, there's fire"
     
   - _Hangdbook of the Christian Knight_: innerfaith as opposed to the outer forms of worship
-  - Latin translation of the New Testment
   - _Acts of the Apostles_: life of early Christians
+  - Latin translation of the New Testment
+  - disagreeement with Martin Luther: Erasmus wanted to reform the Church instead of abandoning it,
+  
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE0NjA0ODgsODAzMTQ4MzczLC0xOD
-c3MjgzMDc5LC00NzY3MjkyNDIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDg5MTY5Njk5LDgwMzE0ODM3MywtMTg3Nz
+I4MzA3OSwtNDc2NzI5MjQyLDczMDk5ODExNl19
 -->
