@@ -75,8 +75,13 @@ Francesco Petrarch (1304-1374)
      
 ## The Northern Renaissance
 
+  - contrast with Italian Renaissance
+    - more emphasize on Religion
+
+
+
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzYxNDcwMywtMTg3NzI4MzA3OSwtND
-c2NzI5MjQyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODEyNDg1NTE2LC0xODc3MjgzMDc5LC00Nz
+Y3MjkyNDIsNzMwOTk4MTE2XX0=
 -->
