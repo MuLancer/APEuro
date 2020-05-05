@@ -3,9 +3,12 @@
 
 # France
 
-## Lead to Absolutism
+## New Monarchies
  Charles VII(1403-1461)
-
+-warfare: first permanent royal army
+- political: increased influence in his bureaucracy to lawyers and bankers who established by new taxes on salt and land
+- Religious: 
+  - appoint bishops in the Pragmatic Sanction of Bourges
 
 ## Royal Absolutism
  
@@ -50,7 +53,7 @@ Louis XIII(1610-1643)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjA4NTIwMiwxMzM5MDEzNjg5LDY1MT
+eyJoaXN0b3J5IjpbMTkzOTc0NzM4MywxMzM5MDEzNjg5LDY1MT
 YyMTY0MSwtMTU0ODQ1Nzk5LC0xNTQ4NDU3OTksLTUxNTEzMTQ0
 NywxNDQ2OTQ4NTkwXX0=
 -->
