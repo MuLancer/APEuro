@@ -10,7 +10,9 @@ Isabella of Castile & Ferdinand of Aragon
 - religion: 
   - From the Spanish Borgia pope Alexander VI, they secured the right to appoint bishops in Spainish Empire, enabling them to establish the equivalent of a national church
 - social: 
-  - **Conversos**: New Christians who are newly converted to Christianity are often well educated and held prominent positions in government, the church, m
+  - **Conversos**: New Christians who are newly converted to Christianity are often well educated and held prominent positions in government, the church, medicine, law, and business.
+    - Spain later persecute the converts (Christian blood' became a requirement for noble status)
+  - anti-Semitism: They invited the **Inquisition** into Spain to persecute Jews and expell them
 - econ: revenues from ecclesiastical estates
   - expand their territories to included the remaining land held by Arabs in southern Spain
 
@@ -30,5 +32,5 @@ Charles III
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1Njk3Nzc1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTg3MDgyNzUzMiw3MzA5OTgxMTZdfQ==
 -->
