@@ -13,7 +13,8 @@ Warfare: War of Roses
  - uneven distribution of land: minority of English and Scottish landowners held most of the land in England, relying on an even smaller number of landless laborers for their workforce. **Increase proletarianization.**
 ## Tudor
 Henry VII
-- political: 
+- class: noblility were not trusted
+- political: **council of a small landowners as advisers. Conducted foreign policy and secured the
 Henry VIII
    * **Act**: "_Act of Supremacy_", which acknowledged the King of England as the Supreme head of Anglican Church.
    * **Religion**: converted England to Anglican Church because he wanted to marry another wife in order to obtain a male offspring.
@@ -147,6 +148,6 @@ George III (r.1760-1820)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUyMzg4MzUsNDkzMTcxNDgsLTE4MT
-M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQ2NTU0NDcwOSw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
