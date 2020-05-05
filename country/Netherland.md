@@ -1,8 +1,12 @@
 
 
 # The Netherlands
-## Golden Age (17th century)
 
+
+## Commercializing Agriculture
+  - forced to take the lead in draining marshes: low countries densely populated 
+  - 
+## Golden Age (17th century)
  - Arts
    - Style: Dutch artists painted for private collectors, who supported  large number of painters and a wide range of styles.
    - Franz Hals
@@ -28,5 +32,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE4NDExMTQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY0MjAzNjM5MCwtMTYwMTg0MTExNCw3Mz
+A5OTgxMTZdfQ==
 -->
