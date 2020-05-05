@@ -2,7 +2,9 @@
 
 # Spain
 
-## New Monar
+## New Monarchies
+Historical context: Spain remained a confederation of kingdoms until 1700 when the marriage of **Isabella of Castile** and **Ferdinand of Aragon**  led to the centralization of Spain.
+
 
 ## Age of Enlightenment
 
@@ -19,5 +21,5 @@ Charles III
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTkxNDE4NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MzY2NDMzMDgsNzMwOTk4MTE2XX0=
 -->
