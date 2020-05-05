@@ -31,11 +31,11 @@ Louis XIII(1610-1643)
         + Early stage: conquered territories in Germany and Flanders
         + 1688: Britain Glorious Revolution caused William of Orange to become the king of England. Netherlands waged total war against France
         + Later stage: **War of Spanish Succession**
-            + Result: Treaty of Utrencht, which left a Bourbon on the throne of Spain but not same monarh.         
+            + Result: Treaty of Utrecht, which left a Bourbon on the throne of Spain but not same monarch.         
     * _General Influence_: Create the glory of France, though exhausted the peasants because of the war's costs.
 
 
-## Age of Englightenment
+## Age of Enlightenment
 
 ## French Revolution
 
@@ -45,7 +45,7 @@ Louis XIII(1610-1643)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM3OTIxNDYsMTMzOTAxMzY4OSw2NT
+eyJoaXN0b3J5IjpbLTE0OTc4NDg0MjAsMTMzOTAxMzY4OSw2NT
 E2MjE2NDEsLTE1NDg0NTc5OSwtMTU0ODQ1Nzk5LC01MTUxMzE0
 NDcsMTQ0Njk0ODU5MF19
 -->
