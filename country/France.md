@@ -4,11 +4,16 @@
 # France
 
 ## New Monarchies
- Charles VII(1403-1461)
+ Charles VII (r. 1422-1461)
 -warfare: first permanent royal army
 - political: increased influence in his bureaucracy to lawyers and bankers who established by new taxes on salt and land
 - Religious: 
   - appoint bishops in the Pragmatic Sanction of Bourges
+  - Concordat of Bologna
+  
+Louis XI (r.1461-1483)
+- "Spider King"
+- economy: fostered industry from artisans, taxed it, and used the funds to expand the army and territory
 
 ## Royal Absolutism
  
@@ -53,7 +58,7 @@ Louis XIII(1610-1643)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTc0NzM4MywxMzM5MDEzNjg5LDY1MT
+eyJoaXN0b3J5IjpbMTE3MTMyNjYwOSwxMzM5MDEzNjg5LDY1MT
 YyMTY0MSwtMTU0ODQ1Nzk5LC0xNTQ4NDU3OTksLTUxNTEzMTQ0
 NywxNDQ2OTQ4NTkwXX0=
 -->
