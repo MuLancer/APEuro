@@ -1,14 +1,17 @@
 
-
-
 # England
+
+## New Monarchies
+Warfare: War of Roses
+- House of York and the House of Lancaster
+
+Edward IV with his brother Richard III and Henry VI
+
 ## Commercializing Agriculture
  - Market-Driven **Estate Agriculture**
  - uneven distribution of land: minority of English and Scottish landowners held most of the land in England, relying on an even smaller number of landless laborers for their workforce. **Increase proletarianization.**
 ## Tudor
 Henry VII
-
-
 
 Henry VIII
    * **Act**: "_Act of Supremacy_", which acknowledged the King of England as the Supreme head of Anglican Church.
@@ -143,6 +146,6 @@ George III (r.1760-1820)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMzNzUzOTksNDkzMTcxNDgsLTE4MT
-M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU3MjgzODAxNiw0OTMxNzE0OCwtMTgxMz
+g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
 -->
