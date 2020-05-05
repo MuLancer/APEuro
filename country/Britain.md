@@ -2,17 +2,18 @@
 # England
 
 ## New Monarchies
+After Hundred Years' War
+
 Warfare: War of Roses
 - House of York and the House of Lancaster
-
-Edward IV with his brother Richard III and Henry VI
+> Edward IV with his brother Richard III and Henry VII, who was a Tudor, worked to crush and control the power of the nobility and used ruthless methods to consolidate power
 
 ## Commercializing Agriculture
  - Market-Driven **Estate Agriculture**
  - uneven distribution of land: minority of English and Scottish landowners held most of the land in England, relying on an even smaller number of landless laborers for their workforce. **Increase proletarianization.**
 ## Tudor
 Henry VII
-
+- political: 
 Henry VIII
    * **Act**: "_Act of Supremacy_", which acknowledged the King of England as the Supreme head of Anglican Church.
    * **Religion**: converted England to Anglican Church because he wanted to marry another wife in order to obtain a male offspring.
@@ -146,6 +147,6 @@ George III (r.1760-1820)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjgzODAxNiw0OTMxNzE0OCwtMTgxMz
-g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjUyMzg4MzUsNDkzMTcxNDgsLTE4MT
+M4NDk0MzUsLTE0NjcyMjU5MjUsNzMwOTk4MTE2XX0=
 -->
