@@ -6,7 +6,8 @@
 Historical context: Spain remained a confederation of kingdoms until 1700 when the marriage of **Isabella of Castile** and **Ferdinand of Aragon**  led to the centralization of Spain.
 
 Isabella of Castile & Ferdinand of Aragon
-- politics: curbed aristocratic power by excluding
+- politics: curbed aristocratic power by **excluding high nobles from the royal concil** and cecuited lesser nobles
+- religion: From the Spanish Borgia pope Alexander VI, they secured the right to appoint bishops in Spainish Empire, enabling
 
 
 ## Age of Enlightenment
@@ -24,5 +25,5 @@ Charles III
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzg0MzI3NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTI0MzQwMzA2LDczMDk5ODExNl19
 -->
