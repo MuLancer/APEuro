@@ -7,7 +7,10 @@ Historical context: Spain remained a confederation of kingdoms until 1700 when t
 
 Isabella of Castile & Ferdinand of Aragon
 - politics: curbed aristocratic power by **excluding high nobles from the royal concil** and cecuited lesser nobles
-- religion: From the Spanish Borgia pope Alexander VI, they secured the right to appoint bishops in Spainish Empire, enabling them to establish the equivalent of a national church
+- religion: 
+  - From the Spanish Borgia pope Alexander VI, they secured the right to appoint bishops in Spainish Empire, enabling them to establish the equivalent of a national church
+- social: 
+  - **Conversos**: New Christians who are newly converted to Christianity are often well educated and held prominent positions in government, the church, m
 - econ: revenues from ecclesiastical estates
   - expand their territories to included the remaining land held by Arabs in southern Spain
 
@@ -27,5 +30,5 @@ Charles III
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTQ3NDkwMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjQ1Njk3Nzc1LDczMDk5ODExNl19
 -->
