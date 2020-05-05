@@ -2,6 +2,8 @@
 
 # Spain
 
+## New Monar
+
 ## Age of Enlightenment
 
 Charles III
@@ -17,5 +19,5 @@ Charles III
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODAzNzksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0OTkxNDE4NjAsNzMwOTk4MTE2XX0=
 -->
