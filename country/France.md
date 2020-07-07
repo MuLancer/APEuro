@@ -15,6 +15,21 @@ Louis XI (r.1461-1483)
 - "Spider King"
 - economy: fostered industry from artisans, taxed it, and used the funds to expand the army and territory
 
+## Wars of Religion (1559-1598)
+Henry II
+  - weak sons: Francis II, Charles IX, Henry III
+
+Class: nobility took advantage->sought religious reform through Calvinism
+  - Religious reform was especially important to the lower class--riots and acts of violence surrounded the reformers
+  - St. Bartholomew's Day massacre was a savage Catholic attack on Calvinists in Paris
+
+Warfare: The War of Three Henrys--a civil war sparked by the St. Bartholomew's Day massacre
+  - Catholic Henry of Guise
+  - Protestant Henry of Navarre
+  - Catholic King Henry III
+
+
+
 ## Royal Absolutism
  
 
@@ -30,7 +45,7 @@ Louis XIII(1610-1643)
        + purpose: His purpose is actually not religious but rather political since he wanted to counter the Spanish Habsburgs. It's important to note that France joined the protestant side
        
  ==Louis XIV==(1638-1715)
-   * _Class_: King gradually removed the power of aristocrats through distracting them by court intrigue and ceremonial issues within the palace of Versailles
+   * _Class_: Kthe king gradually removed the power of aristocrats through distracting them by court intrigue and ceremonial issues within the palace of Versailles
    * _Econ_: centralized the French economy by mercantilism which led to its vast overseas empire
        + French East India Company: compete with Dutch
        + Slave-trading centers on the west coast of Africa
@@ -58,7 +73,7 @@ Louis XIII(1610-1643)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTMyNjYwOSwxMzM5MDEzNjg5LDY1MT
-YyMTY0MSwtMTU0ODQ1Nzk5LC0xNTQ4NDU3OTksLTUxNTEzMTQ0
-NywxNDQ2OTQ4NTkwXX0=
+eyJoaXN0b3J5IjpbLTE1NDU2NTA3NTUsMTE3MTMyNjYwOSwxMz
+M5MDEzNjg5LDY1MTYyMTY0MSwtMTU0ODQ1Nzk5LC0xNTQ4NDU3
+OTksLTUxNTEzMTQ0NywxNDQ2OTQ4NTkwXX0=
 -->
