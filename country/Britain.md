@@ -8,13 +8,16 @@ Warfare: War of Roses
 - House of York and the House of Lancaster
 > Edward IV with his brother Richard III and Henry VII, who was a Tudor, worked to crush and control the power of the nobility and used ruthless methods to consolidate power
 
+
 ## Commercializing Agriculture
  - Market-Driven **Estate Agriculture**
  - uneven distribution of land: minority of English and Scottish landowners held most of the land in England, relying on an even smaller number of landless laborers for their workforce. **Increase proletarianization.**
+ 
 ## Tudor
 Henry VII
-- class: noblility were not trusted
-- political: **council of a small landowners as advisers. Conducted foreign policy and secured the
+- class: nobility were not trusted
+- political: did call parliaments.**council of a small landowners as advisers**, with a judicial branch Star Chamber, a royal system of courts outside of Parliament's control
+  - Conducted foreign policy and secured the marriage of Henry VIII and Catherine of Aragon.
 Henry VIII
    * **Act**: "_Act of Supremacy_", which acknowledged the King of England as the Supreme head of Anglican Church.
    * **Religion**: converted England to Anglican Church because he wanted to marry another wife in order to obtain a male offspring.
@@ -56,7 +59,7 @@ Charles I
    >
   >The King then dissolved the Parliament and began his *Personal Rule as Charles* for eleven years
    >
-   >However, because Charles I's failure of insisting Calvinist Scotland to follow _English Book of Common Prayer_, the Parliament was called again in order to raise funds. The Parliament began to limit some of the king's prerogative rights and supported _Grand Remonstrance_. In response, Charles I tried to seize the leaders of the House of Commons, an attempt that failed. As a result, he left London and marked the beginning of English Revolution
+   >However, because Charles I's failure of insisting Calvinist Scotland to follow _**English Book of Common Prayer**_, the Parliament was called again in order to raise funds. The Parliament began to limit some of the king's prerogative rights and supported _Grand Remonstrance_. In response, Charles I tried to seize the leaders of the House of Commons, an attempt that failed. As a result, he left London and marked the beginning of English Revolution
 * **Religion**:  Support for Arminian Wing of the Anglican Church
      * oppose to predestination
      * refused to deny that Catholics were Christians
@@ -66,6 +69,9 @@ Charles I
     result: Parliament was called in, and put forward a _"Petition of Rights"_
     - War with Scots
     result: forced to call Parliament again
+
+  - Important Event in life
+    - In 1649, Charles I was tried and found guilty of high treason by the "**Rump Parliament**" and beheaded.
 
 
 ## English Civil War
@@ -81,6 +87,8 @@ Cromwell
      Republic: Commonwealth
      called: Lord Protector
      essentially it's just a military dictatorship governed by Cromwell
+ - Religion: Puritan
+   - banned sports, closed theaters, and censored the press. He extended religious toleration to all groups except Catholics and even welcomed the immigation of Jews.
  - Warfare
    - Leveller
    - Ireland (put down with incredible brutality)
@@ -148,6 +156,7 @@ George III (r.1760-1820)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTU0NDcwOSw0OTMxNzE0OCwtMTgxMz
-g0OTQzNSwtMTQ2NzIyNTkyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk3OTc1NTU3NCwtNDY1NTQ0NzA5LDQ5Mz
+E3MTQ4LC0xODEzODQ5NDM1LC0xNDY3MjI1OTI1LDczMDk5ODEx
+Nl19
 -->
