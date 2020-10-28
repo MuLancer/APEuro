@@ -82,8 +82,17 @@ After Copernicus
    - Religion: devout Christian
 
 ## Medical
+  - For many centuries the ancient Greek physician Galen's explanation of the body carried the same authority as Aristotle's account of the universe
+    - body contained four "humors" and illness was believed to result from an imbalance of humors, which is why doctors frequently prescribed bloodletting to expel "excess blood"
+  - Paracelsus: early proponent of the experimental method in medicine--pioneering the use of chemicals and drugs rather than relying on "bloodletting"
   - William Harvey: circulation of blood
-  - Vesalius: anatomy 解剖学
+    - 1628, the first explain that the heart worked like a pump and function of its muscles and valves
+  - Vesalius:
+    -  anatomy 解剖学
+    - dissected human bodies and published On the Structure of the Human Body
+  - Robert Boyle: modern science of chemistry
+    - Boyle's Law (1662), which states that the pressure of a gas varies inversely with volume.
+
 
 ## Implact of Scientific Revolution on Philosophes
 
@@ -115,5 +124,5 @@ Thomas Hobbes
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjg2NTYzMiw2NTQ0MjY5NzddfQ==
+eyJoaXN0b3J5IjpbNTQ0MTQ5NzI0LDY1NDQyNjk3N119
 -->
